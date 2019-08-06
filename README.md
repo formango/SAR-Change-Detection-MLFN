@@ -10,15 +10,16 @@ Before running this code, you should correctly install ubuntu system and caffe f
 (1) Opening the Matlab and changing the current path,
     running the "generating_train.m" and "generating_test.m" to generate the training and testing samples 
 	
-	Running the "create_train.sh" and "create_test.sh" in Caffe. Moreover, the format "png" can be converted to format "lmdb" which is efficent for the caffe input
+(2) Running the "create_train.sh" and "create_test.sh" in Caffe. 
+    Therefore, the format "png" can be converted to format "lmdb" which is efficent for the caffe input
 
-(2) Opening the terminal and running this script to execute the training of MLFN:
+(3) Opening the terminal and running this script to execute the training of MLFN:
     "sh train.sh"
 
-(3) After training, running the following script to executes the testing of MLFN and record testing logs:
+(4) After training, running the following script to executes the testing of MLFN and record testing logs:
     "sh test.sh >& info/result.txt"
 
-(4) Running the "extract_prob.sh" in Caffe to extract probability from the "result.txt"
+(5) Running the "extract_prob.sh" in Caffe to extract probability from the "result.txt"
 
-(5) Running the "calculating_result.m" in Matlab to calculate the matrics (PCC, Kappa, FP and FN) and draw the final change map.
+(6) Running the "calculating_result.m" in Matlab to calculate the matrics (PCC, Kappa, FP and FN) and draw the final change map.
 
