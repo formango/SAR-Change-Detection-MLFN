@@ -3,7 +3,7 @@ If you use this code, please kindly cite our paper:
 Yunhao Gao, Feng Gao*, Junyu Dong, Shenke Wang. "Transferred deep learning for sea ice change detection from synthetic aperture radar Images". IEEE Geoscience and Remote Sensing Letters, 2019.
 
 If you have any questions, please contact us. 
-Email:  gaoyunhao128@163.com
+Email:  gaoyunhao128@163.com gaofeng@ouc.edu.cn
 
 Before running this code, you should correctly install ubuntu system and caffe framework. Refer to this guildeline "http://caffe.berkeleyvision.org/installation.html" After correctly installing ubuntu and caffe, you can run this code by the following procedures. 
 
