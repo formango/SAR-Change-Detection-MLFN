@@ -9,13 +9,13 @@ clc;
 
 addpath('./Utils');
 
-% PatSize ±ØĞëÎªÆæÊı
+% PatSize Â±Ã˜ÃÃ«ÃÂªÃ†Ã¦ÃŠÃ½
 
 PatSize = 7;
 k_n = 3;
 
 fprintf(' ... ... read image file ... ... ... ....\n');
-im1 = imread('./pic/bern.bmp');
+im1 = imread('./pic/bern_1.bmp');
 im2 = imread('./pic/bern_2.bmp');
 im_gt = imread('./pic/bern_gt.bmp');
 fprintf(' ... ... read image file finished !!! !!!\n\n');
