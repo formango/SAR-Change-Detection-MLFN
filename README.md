@@ -1,6 +1,6 @@
 This code is for our paper "Transferred deep learning for sea ice change detection from synthetic aperture radar images". 
 If you use this code, please kindly cite our paper:
-Yunhao Gao, Feng Gao*, Junyu Dong, Shenke Wang. "Transferred deep learning for sea ice change detection from synthetic aperture radar Images". IEEE Geoscience and Remote Sensing Letters, 2019.
+Yunhao Gao, Feng Gao*, Junyu Dong, Shenke Wang. "Transferred deep learning for sea ice change detection from synthetic aperture radar Images". IEEE Geoscience and Remote Sensing Letters, vol. 16, no.10, pp. 1655-1659, Oct. 2019.
 
 If you have any questions, please contact us. 
 Email:  gaoyunhao128@163.com gaofeng@ouc.edu.cn
